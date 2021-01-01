@@ -1,0 +1,2 @@
+print('Deleted')
+print('Dhoom')
